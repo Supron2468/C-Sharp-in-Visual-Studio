@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSearch - Menu", "WordSearch - Menu\WordSearch - Menu.csproj", "{031B645F-7E99-4040-9810-E6964FA88260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031B645F-7E99-4040-9810-E6964FA88260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031B645F-7E99-4040-9810-E6964FA88260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031B645F-7E99-4040-9810-E6964FA88260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031B645F-7E99-4040-9810-E6964FA88260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A064AADA-B5C1-4375-8869-5E4FA4BEB58E}
+	EndGlobalSection
+EndGlobal
