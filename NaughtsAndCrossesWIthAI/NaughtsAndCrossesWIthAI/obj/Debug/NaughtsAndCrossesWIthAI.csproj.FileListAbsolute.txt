@@ -1,0 +1,12 @@
+c:\users\supron\documents\visual studio 2015\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\bin\Debug\NaughtsAndCrossesWIthAI.exe.config
+C:\Users\Supron\documents\visual studio 2015\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\bin\Debug\NaughtsAndCrossesWIthAI.exe
+C:\Users\Supron\documents\visual studio 2015\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\bin\Debug\NaughtsAndCrossesWIthAI.pdb
+C:\Users\Supron\documents\visual studio 2015\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\obj\Debug\NaughtsAndCrossesWIthAI.csprojResolveAssemblyReference.cache
+C:\Users\Supron\documents\visual studio 2015\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\obj\Debug\NaughtsAndCrossesWIthAI.exe
+C:\Users\Supron\documents\visual studio 2015\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\obj\Debug\NaughtsAndCrossesWIthAI.pdb
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\bin\Debug\NaughtsAndCrossesWIthAI.exe.config
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\bin\Debug\NaughtsAndCrossesWIthAI.exe
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\bin\Debug\NaughtsAndCrossesWIthAI.pdb
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\obj\Debug\NaughtsAndCrossesWIthAI.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\obj\Debug\NaughtsAndCrossesWIthAI.exe
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrossesWIthAI\NaughtsAndCrossesWIthAI\obj\Debug\NaughtsAndCrossesWIthAI.pdb

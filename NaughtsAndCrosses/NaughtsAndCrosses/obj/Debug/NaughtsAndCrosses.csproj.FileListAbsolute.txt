@@ -1,0 +1,11 @@
+c:\users\supron\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.exe.config
+c:\users\supron\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.exe
+c:\users\supron\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.pdb
+c:\users\supron\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.exe
+c:\users\supron\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.pdb
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.exe.config
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.exe
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.pdb
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.exe
+E:\Documents\Visual Studio 2017\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.pdb
